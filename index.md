@@ -9,3 +9,6 @@ I am testing header sizes
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/
 ```
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
